@@ -1,4 +1,4 @@
 # Demo
 This is my first git repository.
 <br>
-Author - Ishani Bhushan
+Author - Ishani (BVCOE)
